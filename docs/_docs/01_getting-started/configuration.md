@@ -30,7 +30,11 @@ Terragrunt also supports [JSON-serialized HCL](https://github.com/hashicorp/hcl/
 
 Terragrunt figures out the path to its config file according to the following rules:
 
+<<<<<<< HEAD
 0. 1-change-config branch
+=======
+0. 2-change-config
+>>>>>>> 2-change-config
 
 1.  The value of the `--terragrunt-config` command-line option, if specified.
 
